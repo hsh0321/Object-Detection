@@ -34,8 +34,8 @@ Opencv에서 오브젝트를 인식하는 대표적인 방법중의 하나는 Ha
 
 _아래는 학습된 결과를 이용하여 객체를 탐지하는 프로그램의 일부분이다._
 
-#### GIF
+
 <p align="center">
- <img src="./Assets/image/img2.gif" width="600"/>
+  <img src="./Assets/image/img2.gif" width="600"/>
 </p>
 
