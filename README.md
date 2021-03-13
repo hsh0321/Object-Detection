@@ -8,7 +8,7 @@
 Object Detection using Viola-Jones detector
 
 ## HashTag 👐:
- - #Visual Studio #C++ #OpenCV #Object Detection #haarcascade #QT #사물인식
+ - #Visual Studio #C++ #OpenCV #Object Detection #haarcascade #QT #사물인식 #영상처리
 
 ## Face, Human Body, Car detecting by Viola-Jones detector 👐
 학습하고 추출된 Xml파일과 GUI을 제작하는데 사용한 QT,CPP 파일 첨부
