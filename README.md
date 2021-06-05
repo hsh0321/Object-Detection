@@ -5,7 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ppko1233@gmail.com)](mailto:ppko1233@gmail.com)
 
 # Object-Detection 👐
-객체 인식 using Viola-Jones detector
+객체 인식 using Viola-Jones detector 
+
 
 ## HashTag 👐:
  - #Visual Studio #C++ #OpenCV #Object Detection #haarcascade #QT #사물인식 #영상처리
